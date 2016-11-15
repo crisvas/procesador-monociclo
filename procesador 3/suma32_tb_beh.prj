@@ -1,0 +1,2 @@
+vhdl work "suma32bit.vhd"
+vhdl work "suma32_tb.vhd"

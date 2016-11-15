@@ -1,0 +1,2 @@
+vhdl work "multiplexor32.vhd"
+vhdl work "multiplex_tb.vhd"

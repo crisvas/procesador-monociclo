@@ -1,0 +1,29 @@
+Command line:
+   procesadorf_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  49492
+
+Tue Nov 01 17:29:05 2016
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 844.055 Meg
+
+ Total Signals          : 82
+ Total Nets             : 3777
+ Total Signal Drivers   : 19
+ Total Blocks           : 18
+ Total Primitive Blocks : 17
+ Total Processes        : 13
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 4278
+Total Line Count : 142
+
+ Total Simulation Time: 0.078125 sec
+
+ Current Memory Usage: 844.055 Meg
+
+Tue Nov 01 17:29:10 2016
+

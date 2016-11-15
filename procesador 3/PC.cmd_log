@@ -1,0 +1,5 @@
+vhdtdtfi -prj procesador -o "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/PC.tfi" -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PC.vhd 
+vhdtdtfi -lib work PC.vhd -prj procesador -o PC.spl -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 PC.spl {C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/PC.sym} 
+vhdtdtfi -prj procesador -o "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/PC.tfi" -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PC.vhd 
+vhdtdtfi -prj procesador -o "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/PC.tfi" -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work PC.vhd 

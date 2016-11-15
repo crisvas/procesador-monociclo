@@ -1,0 +1,7 @@
+[Inputs]
+reset
+clk
+=data[31:0]=
+[Outputs]
+=data_out[31:0]=
+[BiDir]

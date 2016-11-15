@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/utp/Desktop/procesador/sumador/multiplexers_1.xst" -ofn "C:/Users/utp/Desktop/procesador/sumador/multiplexers_1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim multiplexers_1.ngc multiplexers_1_synthesis.v 

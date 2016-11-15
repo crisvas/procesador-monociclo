@@ -1,0 +1,2 @@
+vhdl isim_temp "suma32bit.vhd"
+vhdl isim_temp "suma32_tb.vhd"

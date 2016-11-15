@@ -1,0 +1,2 @@
+vhdl isim_temp "ext_palabra.vhd"
+vhdl isim_temp "ext_palabra_tb.vhd"

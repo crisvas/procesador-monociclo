@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+suma32bit instance_name (
+    .a(a), 
+    .b(b), 
+    .c(c)
+    );
+
+

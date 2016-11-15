@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+PC instance_name (
+    .reset(reset), 
+    .clk(clk), 
+    .data(data), 
+    .data_out(data_out)
+    );
+
+

@@ -1,0 +1,90 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/cesar/Documents/procesador/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/cesar/Documents/procesador/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.10 secs
+ 
+--> Reading design: procesador1.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\windowsmanager.vhd" into library work
+Parsing entity <windowsmanager>.
+Parsing architecture <Behavioral> of entity <windowsmanager>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\suma32bit.vhd" into library work
+Parsing entity <suma32bit>.
+Parsing architecture <Behavioral> of entity <suma32bit>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\reg.vhd" into library work
+Parsing entity <RF>.
+Parsing architecture <Behavioral> of entity <rf>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\PSR_Modifier.vhd" into library work
+Parsing entity <modificador_PSR>.
+Parsing architecture <Behavioral> of entity <modificador_psr>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\psr.vhd" into library work
+Parsing entity <PSR>.
+Parsing architecture <Behavioral> of entity <psr>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\PC.vhd" into library work
+Parsing entity <nPC>.
+Parsing architecture <Behavioral> of entity <npc>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\multiplexor32.vhd" into library work
+Parsing entity <multiplexers_1>.
+Parsing architecture <archi> of entity <multiplexers_1>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\inst_memory.vhd" into library work
+Parsing entity <instructionMemory>.
+Parsing architecture <arqInstructionMemory> of entity <instructionmemory>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\ext_palabra.vhd" into library work
+Parsing entity <ext_palabra>.
+Parsing architecture <arqext_palabra> of entity <ext_palabra>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\cpu.vhd" into library work
+Parsing entity <CPU>.
+Parsing architecture <Behavioral> of entity <cpu>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\alu.vhd" into library work
+Parsing entity <ALU>.
+Parsing architecture <Behavioral> of entity <alu>.
+Parsing VHDL file "C:\Users\cesar\Documents\procesador\procesador1.vhd" into library work
+Parsing entity <procesador1>.
+Parsing architecture <Behavioral> of entity <procesador1>.
+
+
+Total REAL time to Xst completion: 7.00 secs
+Total CPU time to Xst completion: 7.06 secs
+ 
+--> 
+
+Total memory usage is 268968 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

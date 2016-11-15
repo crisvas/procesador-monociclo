@@ -1,0 +1,57 @@
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/taller arquitectura/procesador/procesador/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/universidad/arquitectura/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim procesador1.ngc procesador1_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/procesador/procesador1.xst" -ofn "C:/Users/cesar/Documents/procesador/procesador1.syr" 

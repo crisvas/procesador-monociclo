@@ -1,0 +1,9 @@
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim instructionMemory.ngc instructionMemory_synthesis.v 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+xst -intstyle ise -ifn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.xst" -ofn "C:/Users/cesar/Documents/taller arquitectura/procesador/procesador/procesador/instructionMemory.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim instructionMemory.ngc instructionMemory_synthesis.v 

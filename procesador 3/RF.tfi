@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+RF instance_name (
+    .rs1(rs1), 
+    .rs2(rs2), 
+    .rd(rd), 
+    .dwr(dwr), 
+    .reset(reset), 
+    .crs1(crs1), 
+    .crs2(crs2)
+    );
+
+
